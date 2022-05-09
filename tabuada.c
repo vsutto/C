@@ -1,7 +1,8 @@
+//Aula C1 - Alura
 #include <stdio.h>
 
 int main() {
-  int numero;
+  int numero = 30; //Alterar o Número "30" pelo desejado da multiplicação. 
   printf("Qual tabuada você quer?");
   scanf("%d", &numero);
 
